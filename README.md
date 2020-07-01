@@ -1,2 +1,5 @@
 # hello-world
-My first GitHub repository
+Hi my dear friends,
+
+I'm Hawk. Now I'm learning GitHub turtorial.
+It's my first branch.
